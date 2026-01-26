@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Zane!
+## 👋 Hi, I’m Zane!
 
 I’m a programmer who enjoys **building, learning, and using computers to solve problems**. 
 
