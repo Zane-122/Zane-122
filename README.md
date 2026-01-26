@@ -8,7 +8,6 @@ I program in:
 - 🍎 **Swift**
 - ⚙️ **C++**
 - 🦀 **Rust**
-- 🐍 **Python**
 ---
 
 Check out my pinned repositories and organizations to see what I’ve been working on 👇
