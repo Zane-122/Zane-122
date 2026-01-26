@@ -1,23 +1,10 @@
 ## 👋 Hi there, I’m Zane!
 
-
-I’m a student developer who enjoys **building, learning, and using computers to solve problems**. 
-
----
-
-## 🧠 Languages & Tools
-
-I have coded and continue to learn in:
-- 🟨 **JavaScript / TypeScript**
-- ☕ **Java**
-- 🍎 **Swift**
-- ⚙️ **C++**
-- 🦀 **Rust**
-- 🐍 **Python**
+I’m a programmer who enjoys **building, learning, and using computers to solve problems**. 
 
 ---
 
-## 🔧 Organizations & Projects
+## 🔧 My Organizations
 I’m involved in several organizations and long-term projects, here are my main ones:
 
 ### 🤖 **FRC 862**
@@ -34,11 +21,4 @@ An official organization housing repositories for a **new web app** that streaml
 
 ---
 
-## 🚀 What I’m Working On Now
-
-- Learning more **C++ and Rust**
-- Revisiting and finishing projects I wasn’t able to complete in the past
-
----
-
-Check out my pinned repositories below to see what I’ve been building 👇
+Check out my pinned repositories below to see what I’ve been working on 👇
