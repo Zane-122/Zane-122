@@ -7,6 +7,4 @@ I program in:
 - ☕ **Java**
 - 🍎 **Swift**
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steipete&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
 Check out my pinned repositories and organizations to see what I’ve been working on 👇
