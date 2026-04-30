@@ -6,8 +6,6 @@ I program in:
 - 🟨 **JavaScript / TypeScript**
 - ☕ **Java**
 - 🍎 **Swift**
-- ⚙️ **C++**
-- 🦀 **Rust**
 ---
 
 Check out my pinned repositories and organizations to see what I’ve been working on 👇
